@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rubina! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Final+Year+CS+Student+%40+ETF+Sarajevo;Aspiring+Software+Developer;Web+Development+%26+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Final+Year+CS+Student+%40+ETF+Sarajevo;Software+Developer;Web+Development+%26+AI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
