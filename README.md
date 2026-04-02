@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Rubina! 👋
+# Hi there, I'm Rubina Rekić! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Final+Year+CS+Student+%40+ETF+Sarajevo;Aspiring+Software+Developer;Web+Development+%26+AI+Enthusiast)](https://git.io/typing-svg)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rubina-rekic&color=3b82f6&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -62,20 +60,9 @@ I'm a final-year **Computer Science & Informatics** student at the **Faculty of 
 | 🚗 **YourRide** | Full-stack ride-sharing app with real-time notifications and role-based access | C#, ASP.NET, SignalR | [Repo](https://github.com/rubina-rekic/YourRide) |
 | ✍️ **ScenarijPro** | Collaborative screenplay editor with version control, built across 4 sprints | Node.js, Express, MySQL | [Repo](https://github.com/rubina-rekic/ScenarijPro) |
 | 🎬 **FilmMate QA** | Movie recommendation app with full testing suite — TDD, unit tests, code inspection | C#, .NET 9, MSTest | [Repo](https://github.com/rubina-rekic/FilmMate-QA) |
-| 🧠 **Neural Networks as Graphs** | Research project modeling neural networks as directed graphs, analyzing structural resilience and signal propagation dynamics | Python, NetworkX, NumPy | [Repo](https://github.com/rubina-rekic/neural-networks-graph-analysis) |
+| 🧠 **Neural Networks as Graphs** | Research project modeling biological neural networks as directed graphs, analyzing structural resilience and signal propagation dynamics | Python, NetworkX, NumPy | [Repo](https://github.com/rubina-rekic/neural-networks-graph-analysis) |
 | 🌡️ **Temperature Control IoT** | IoT temperature regulation system with MQTT communication and Flask web interface | Python, Flask, MQTT, Raspberry Pi | [Repo](https://github.com/rubina-rekic/temperature-control-iot) |
 | 📰 **NewsFeed Android** | Android news app with real-time API polling, local database and category filtering | Kotlin, Room, REST API | [Repo](https://github.com/rubina-rekic/Newsfeed-Android-App) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rubina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubina-rekic&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubina-rekic&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -86,5 +73,13 @@ I'm a final-year **Computer Science & Informatics** student at the **Faculty of 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubina-rekić-4a5164288/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubina-rekic)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubinarekic2@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rubina-rekic&color=3b82f6&style=flat-square&label=Profile+Views)
 
 </div>
