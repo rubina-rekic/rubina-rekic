@@ -2,21 +2,17 @@
 
 # Hi there, I'm Rubina! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Final+Year+CS+Student+%40+ETF+Sarajevo;Software+Developer;Web+Development+%26+AI+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+%40+ETF+Sarajevo;Software+Developer;Web+Developement+%26+AI+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ## 👩‍💻 About Me
-
-I'm a final-year **Computer Science & Informatics** student at the **Faculty of Electrical Engineering, University of Sarajevo**. I enjoy building full-stack web applications, exploring AI and machine learning, and working on real-world engineering projects.
-
-- 🎓 **Degree:** Computer Science & Informatics — ETF Sarajevo
+I recently graduated in **Electrical Engineering (Computer Science & Informatics)** from the **Faculty of Electrical Engineering, University of Sarajevo**. I enjoy building full-stack web applications, exploring AI and machine learning, and working on real-world engineering projects.
+- 🎓 **Degree:** BSc Electrical Engineering (Computer Science & Informatics) — ETF Sarajevo (2026)
 - 🌱 **Learning:** React, advanced Node.js, Machine Learning with Python
-- 🧠 **Interests:** Web Development, AI, Computational Neuroscience, IoT
+- 🧠 **Interests:** Graph Theory, AI, Computational Neuroscience, IoT
 - 📍 **Location:** Sarajevo, Bosnia and Herzegovina
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -27,6 +23,7 @@ I'm a final-year **Computer Science & Informatics** student at the **Faculty of 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Web & Frameworks**
@@ -57,6 +54,7 @@ I'm a final-year **Computer Science & Informatics** student at the **Faculty of 
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
+| 📊 **Application of Graph Theory to Neural Network Modelling** | Bachelor's thesis formalizing trained neural networks as weighted graphs — centrality, modularity, spectral & robustness analysis across 3 architectures | Python, PyTorch, NetworkX | [Repo](https://github.com/rubina-rekic/graph-theory-neural-network-modelling) |
 | 🚗 **YourRide** | Full-stack ride-sharing app with real-time notifications and role-based access | C#, ASP.NET, SignalR | [Repo](https://github.com/rubina-rekic/YourRide) |
 | ✍️ **ScenarijPro** | Collaborative screenplay editor with version control, built across 4 sprints | Node.js, Express, MySQL | [Repo](https://github.com/rubina-rekic/ScenarijPro) |
 | 🎬 **FilmMate QA** | Movie recommendation app with full testing suite — TDD, unit tests, code inspection | C#, .NET 9, MSTest | [Repo](https://github.com/rubina-rekic/FilmMate-QA) |
