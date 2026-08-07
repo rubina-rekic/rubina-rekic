@@ -35,14 +35,6 @@ I recently graduated in **Electrical Engineering (Computer Science & Informatics
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubina-rekić-4a5164288/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubinarekic2@gmail.com)
 
-<p align="center">Feel free to reach out for collaborations or just a chat!</p>
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rubina-rekic&color=3b82f6&style=flat-square&label=Profile+Views)
+<p align="center"> Always happy to connect - reach out anytime! </p>
 
 </div>
