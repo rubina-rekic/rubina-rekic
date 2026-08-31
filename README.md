@@ -2,29 +2,34 @@
 
 # Hi there, I'm Rubina! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+%40+ETF+Sarajevo;Software+Developer;Web+Developement+%26+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+%40+ETF+Sarajevo;QA+%2F+Test+Automation+Engineer;Software+Quality+%26+AI+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ## About Me
-I recently graduated in **Electrical Engineering (Computer Science & Informatics)** from the **Faculty of Electrical Engineering, University of Sarajevo**. I enjoy building full-stack web applications, exploring AI and machine learning, and QA.
+I recently graduated in **Electrical Engineering (Computer Science & Informatics)** from the **Faculty of Electrical Engineering, University of Sarajevo**. My current focus is **Software Quality Assurance and Test Automation**. I enjoy designing test scenarios, automating UI tests, investigating unexpected application behavior, and identifying and documenting software defects.
+ 
+I also have a strong software development background, which helps me understand applications from both the development and testing perspectives.
 - **Degree:** BSc Electrical Engineering (Computer Science & Informatics) - ETF Sarajevo (2026)
-- **Interests:** Backend Development, AI, Software Testing
+- **Interests:** Backend Development, Software Testing, AI & Machine Learning
 
 ---
 
-##  Tech Stack & Tools
-
-**Languages:** C#, C++, Kotlin, Java, Python, JavaScript
+##  QA & Test Automation
  
-**Web & Frameworks:** React, Node.js, Express, ASP.NET
+**Test Automation:** Selenium WebDriver, Selenium IDE, TestNG, Page Object Model
+**Testing:** Functional Testing, UI Testing, API Testing, Regression Testing, Smoke Testing, Unit Testing, Load Testing, Black-Box & White-Box Testing
+**API Testing:** Postman, REST APIs, HTTP, JSON
+**QA Practices:** Test Case Design, Bug Reporting, Root Cause Analysis, TDD
+**Tools:** Maven, Git, GitHub Actions, Chrome DevTools
  
-**Databases & Tools:** MySQL, SQLite, Git, Android Studio, LaTeX, Docker, AWS
+##  Programming & Development
  
+**Languages:** Java, C#, C++, Kotlin, Python, JavaScript, SQL
+**Web & Frameworks:** React, Node.js, Express, ASP.NET Core
+**Databases & Tools:** MySQL, SQLite, Docker, AWS
 **AI & Data Science:** PyTorch, NumPy, Matplotlib, NetworkX
-
-**Testing:** NUnit, Selenium, Postman
 
 ---
 
