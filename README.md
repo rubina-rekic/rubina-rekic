@@ -16,21 +16,21 @@ I also have a strong software development background, which helps me understand 
 
 ---
 
-##  QA & Test Automation
+## QA & Test Automation
  
-**Test Automation:** Selenium WebDriver, Selenium IDE, TestNG, Page Object Model
-**Testing:** Functional Testing, UI Testing, API Testing, Regression Testing, Smoke Testing, Unit Testing, Load Testing, Black-Box & White-Box Testing
-**API Testing:** Postman, REST APIs, HTTP, JSON
-**QA Practices:** Test Case Design, Bug Reporting, Root Cause Analysis, TDD
+**Test Automation:** Selenium WebDriver, Selenium IDE, TestNG, Page Object Model <br>
+**Testing:** Functional Testing, UI Testing, API Testing, Regression Testing, Smoke Testing, Unit Testing, Load Testing, Black-Box & White-Box Testing <br>
+**API Testing:** Postman, REST APIs, HTTP, JSON <br>
+**QA Practices:** Test Case Design, Bug Reporting, Root Cause Analysis, TDD <br>
 **Tools:** Maven, Git, GitHub Actions, Chrome DevTools
  
-##  Programming & Development
+## Programming & Development
  
-**Languages:** Java, C#, C++, Kotlin, Python, JavaScript, SQL
-**Web & Frameworks:** React, Node.js, Express, ASP.NET Core
-**Databases & Tools:** MySQL, SQLite, Docker, AWS
+**Languages:** Java, C#, C++, Kotlin, Python, JavaScript, SQL <br>
+**Web & Frameworks:** React, Node.js, Express, ASP.NET Core <br>
+**Databases & Tools:** MySQL, SQLite, Docker, AWS <br>
 **AI & Data Science:** PyTorch, NumPy, Matplotlib, NetworkX
-
+ 
 ---
 
 ##  Contact me
